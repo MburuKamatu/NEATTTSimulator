@@ -4,4 +4,7 @@ The car is controlled by radar sensors that detect collisions i.e. when th car c
 The car is also part of a model that runs in the NEAT algorithm. The algorithm runs populations of cars through generations, with each subsequent generation of cars having attributes inherited from the previous generation.
 # Installation
 Clone the github repo to your local machine.
-The necessary libraries are called from the main program so simply run the python script to start the simulation
+Install pycharm: https://www.jetbrains.com/pycharm/download/ OR 
+Install the NEAT library : https://pypi.org/project/neat-python/ OR pip install neat-python
+Install pygame: pip install pygame
+Run cargenerator.py through the terminal
